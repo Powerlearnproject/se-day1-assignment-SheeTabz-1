@@ -74,8 +74,8 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 - 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Example of a vague prompt: "How to cook"
-Improved version: I want to cook fluffy pancakes with latte and am a beginner, what are the ingredients needed to prepare this meal and what are the steps to preparing the dish.
+- Example of a vague prompt: "How to cook"
+- Improved version: I want to cook fluffy pancakes with latte and am a beginner, what are the ingredients needed to prepare this meal and what are the steps to preparing the dish.
 
 
 
