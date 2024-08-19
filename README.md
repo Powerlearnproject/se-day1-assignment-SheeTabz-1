@@ -12,9 +12,9 @@ Explain what software engineering is and discuss its importance in the technolog
    -  Software engineering enables the creation of software applications and systems that power various aspects of modern life,
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1.**Emergence of agile methodologies (2000s):** Agile methodologies, such as Scrum and Kanban, emphasized iterative development, flexibility, and collaboration, adapting to changing requirements and delivering value incrementally.
+1. **Emergence of agile methodologies (2000s):** Agile methodologies, such as Scrum and Kanban, emphasized iterative development, flexibility, and collaboration, adapting to changing requirements and delivering value incrementally.
 2. **Rise of object-oriented programming (1980s):** OOP revolutionized software development by introducing the concept of objects, which encapsulate data and behavior. This led to more reusable and modular code.
-3.**Development of programming languages (e.g., Fortran, COBOL):** These early languages laid the foundation for modern software development by providing tools to express algorithms and instructions to computers.
+3. **Development of programming languages (e.g., Fortran, COBOL):** These early languages laid the foundation for modern software development by providing tools to express algorithms and instructions to computers.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
